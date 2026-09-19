@@ -27,7 +27,7 @@ summer-job-form/
 ## Run Locally
 
 No installation needed.
- click summer_job_form.html
+ open summer_job_form.html on web browser.
 
 ## Notes
 
