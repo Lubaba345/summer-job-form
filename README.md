@@ -28,12 +28,11 @@ summer-job-form/
 
 No installation needed.
  click summer_job_form.html
-URL: https://karim13.myweb.cs.uwindsor.ca/Summerjobform/summer_job_form.html
-
 
 ## Notes
 
 This is a static front-end demonstration. Submitting the form navigates to the included confirmation page; it does not send data to a server or database.
+live URL: https://karim13.myweb.cs.uwindsor.ca/Summerjobform/summer_job_form.html
 
 ## Author
 
