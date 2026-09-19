@@ -1,4 +1,4 @@
-# Canada Summer Jobs Employer Information Form
+# Summer Jobs Form
 
 A static HTML/CSS recreation of a Canada Summer Jobs Part A - Employer Information form.
 
