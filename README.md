@@ -3,10 +3,7 @@
 A static HTML/CSS recreation of a Canada Summer Jobs Part A - Employer Information form.
 
 ## Project Files
-
-```text
 summer-job-form/
-├── index.html
 ├── summer_job_form.html
 ├── summer_job_form.css
 ├── summer_job_submitted.html
@@ -29,9 +26,8 @@ summer-job-form/
 
 ## Run Locally
 
-No installation is required.
-
-Open `index.html` in a web browser.
+No installation needed.
+ click summer_job_form.html 
 
 
 ## Notes
